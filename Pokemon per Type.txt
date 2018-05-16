@@ -1,0 +1,44 @@
+Dark:
+Sneasel
+Houndour
+Murkrow
+rival - Scraggy
+
+
+Dragon:
+Dratini
+Bagon
+Gible
+rival - Axew
+
+
+Electric:
+
+
+
+Fairy:
+Togepi
+Clefairy
+Snubbull
+rival - Klefki
+
+
+Fighting:
+Tyrogue
+Mankey
+Machop
+rival - Meditite
+
+
+Ghost:
+Gastly
+Duskull
+Misdreavus
+rival - Spiritomb
+
+
+Ice:
+Smoochum
+Swinub
+Vanillite
+rival - Alolan Sandshrew
